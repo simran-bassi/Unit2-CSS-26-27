@@ -1,0 +1,25 @@
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.player-card p {
+    color:#F2B705;
+}
+.player-card .btn {
+    background-color:#F2B705
+}
+
+#banner {
+    border-bottom: 3px solid #5ADB8C;
+}
+
+.about p {
+    font-style: italic;
+}
+
+.tag, .stat {
+    font-weight: bold;
+}
+
+#footer p {
+    color: #AEC0D8;
+}
