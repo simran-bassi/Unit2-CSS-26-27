@@ -41,3 +41,6 @@ nav a {
     color:#5ADB8C;
 }
 
+li + li {
+    border-top: 1px solid #F2B705;
+}
