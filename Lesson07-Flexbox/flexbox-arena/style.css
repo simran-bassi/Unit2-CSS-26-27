@@ -65,10 +65,14 @@
 
 /* BONUS · Flip it ▸ picture on the right, equal halves, 16px apart (TWO rules) */
 .l9 {
-
+   display: flex;
+   flex-direction: row-reverse;
+   gap: 16px;
 }
 
-.l9 .pic,
-.l9 .text {
-
+.l9 .pic, .l9 .text {
+   display: flex;
+   gap: 16px;
+   flex-direction: row;
+   flex: 1;
 }
